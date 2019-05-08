@@ -1,3 +1,2 @@
 * [首页](/)
-* [首页](docs/index)
-* [使用指南](docs/guide)
+* [使用指南](docs/index)
